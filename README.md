@@ -1,8 +1,5 @@
 ### `aeon_system_status --u vu`
-
-> <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-brightgreen" alt="operational"><img src="https://img.shields.io/badge/SABBATICAL-bf5700" alt="sabbatical">
-
-> <img src="https://img.shields.io/badge/CURRENT_LOCATION-TRAVELING-brightgreen" alt="traveling">
+<img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-brightgreen" alt="operational"><img src="https://img.shields.io/badge/SABBATICAL-bf5700" alt="sabbatical"> | <img src="https://img.shields.io/badge/CURRENT_LOCATION-TRAVELING-brightgreen" alt="traveling">
 
 ---
 
