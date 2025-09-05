@@ -1,6 +1,6 @@
 ### `aeon_system_status --u vu`
 
-> **SYSTEM STATUS:** <img src="https://img.shields.io/badge/OPERATIONAL-brightgreen" alt="operational"><img src="https://img.shields.io/badge/SABBATICAL-bf5700" alt="sabbatical">
+> **SYSTEM STATUS:** <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-brightgreen" alt="operational"><img src="https://img.shields.io/badge/SABBATICAL-bf5700" alt="sabbatical">
 > **CURRENT_LOCATION:** `traveling`
 > **FOCUS:** `building maybe useful things`
 
