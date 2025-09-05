@@ -16,7 +16,7 @@
 
 * `[log]` **Recent Activity:**
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&line_height=27" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vu1n&show_icons=true&theme=dracula&line_height=27" />
     </a>
 
 ---
