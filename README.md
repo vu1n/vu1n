@@ -8,5 +8,5 @@
 * `[proc]` **Active Processes:**
     * `[pid 001]` automated perps trading `STATUS: MONITORING`
     * `[pid 002]` yet another solana launchpad `STATUS: COMPILING`
-    * `[pid 003]` crypto -> fiat payments for VN `STATUS: QUEUED`
+    * `[pid 003]` crypto -> fiat payments for VN `STATUS: HACKATHON`
     * `[pid 004]` AI assistant, the leverage engine `STATUS: UPGRADING`
