@@ -7,6 +7,6 @@
   
 * `[proc]` **Active Processes:**
     * `[pid 001]` automated perps trading `STATUS: MONITORING`
-    * `[pid 002]` yet another solana launchpad `STATUS: COMPILING`
-    * `[pid 003]` crypto -> fiat payments for VN `STATUS: HACKATHON`
+    * `[pid 002]` yet another wallet app `STATUS: BUILDING`
+    * `[pid 003]` flowloop - beats to vibe to `STATUS: HACKATHON`
     * `[pid 004]` AI assistant, the leverage engine `STATUS: UPGRADING`
