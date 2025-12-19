@@ -4,9 +4,3 @@
 ---
 
 * `[init]` **Core Operating System:** A generalist software developer, focused on data, AI, and other curiosities. building maybe useful things.
-  
-* `[proc]` **Active Processes:**
-    * `[pid 001]` automated perps trading `STATUS: MONITORING`
-    * `[pid 002]` yet another wallet app `STATUS: BUILDING`
-    * `[pid 003]` flowloop - beats to vibe to `STATUS: HACKATHON`
-    * `[pid 004]` AI assistant, the leverage engine `STATUS: UPGRADING`
